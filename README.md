@@ -1,5 +1,5 @@
 
-Little game I made.
+Little game I made. Actually decided to get a microbit and make a game on it. (V2 ONLY)
 
 > Download [here](catchdafroots.hex)
 
